@@ -12,14 +12,13 @@
   ],
   "version": "1.0.3",
   "dependencies": {
-    "phantomjs": "latest",
     "async": "latest",
     "tmp": "latest",
     "debug": "latest"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bauhausjs/phantom-html2pdf.git"
+    "url": "https://github.com/czarly/phantom-html2pdf.git"
   },
   "keywords": [
     "pdf",
